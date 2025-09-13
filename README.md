@@ -43,6 +43,47 @@ This project explores and analyzes the **Indian Premier League (IPL)** dataset u
 - 🔥 Heatmap of Correlations
 
 ---
+# 🏏 IPL Match Analytics using Machine Learning
+
+## 📌 Project Overview
+This project applies **Machine Learning techniques** on the **IPL dataset** to analyze and predict match outcomes.  
+We used both **supervised (Regression & Classification)** and **unsupervised (Clustering)** methods to derive insights such as:
+- Predicting target runs
+- Predicting match winners
+- Clustering teams based on performance trends
+
+---
+
+## ⚙️ Tech Stack
+- **Python** 🐍  
+- **Pandas, NumPy** for data preprocessing  
+- **Matplotlib, Seaborn** for visualization  
+- **Scikit-learn** for ML models  
+
+---
+
+## 🔑 Features
+- ✅ Data Cleaning & Feature Engineering  
+- ✅ Regression Models: *Linear Regression, Random Forest*  
+- ✅ Classification Models: *Logistic Regression, Random Forest Classifier*  
+- ✅ Clustering: *K-Means* to group teams  
+- ✅ Model Evaluation using **RMSE, R², Accuracy, Precision, Recall, F1-score, Silhouette Score**  
+- ✅ Visualizations for team performance, win trends, and feature importance  
+
+---
+
+## 📂 Dataset
+The IPL dataset contains information such as:
+- `Season` – IPL season year  
+- `Team1`, `Team2` – Competing teams  
+- `Venue` – Match venue  
+- `Toss_Winner`, `Toss_Decision`  
+- `Winner` – Match result  
+- `Target Runs`, `Runs Scored`  
+
+---
+
+
 
 ## 🚀 How to Run
 
