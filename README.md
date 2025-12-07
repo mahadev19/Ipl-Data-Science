@@ -82,8 +82,15 @@ The IPL dataset contains information such as:
 - `Target Runs`, `Runs Scored`  
 
 ---
+## Contact :
 
+gmail:- pandmahadev120@gmail.com
 
+linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/
+
+twitter : - https://x.com/Mahadev_Py
+
+https://www.mahadev.me/
 
 ## 🚀 How to Run
 
